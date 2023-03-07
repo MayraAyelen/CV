@@ -1,0 +1,48 @@
+: root { #81A1C1 ; 
+}
+/*
+* { outline: 1px solid rosybrown}
+
+*/
+
+title { 
+    color: black; 
+}
+body { 
+  background: wheat;
+  color: black;
+}
+
+header, section { 
+    width: 960px;
+    margin: 0 auto;
+    display: flex; 
+
+}
+
+
+ul {
+    list-style-type: "✓";
+}
+
+article {
+    width: 60%;
+
+}
+
+
+img { 
+    width: 200px;
+    height: 200px;
+    margin-block-start: 16px ;
+}
+
+a, a:link, a:visited {
+    text-decoration: none;
+    color: rosybrown;
+    font-weight: bold;
+
+}
+
+
+
